@@ -11,10 +11,7 @@
 - 🌱 I’m deepening expertise in **LLM integration, RAG architectures, and cloud‑native patterns** for freelance projects.
 - 👯 I’m looking to collaborate on **open‑source Java projects** or **innovative backend tools** leveraging Gen AI.
 - 💬 Ask me about **Spring Boot, microservices, concurrency, system design**, or integrating **LLMs into production**.
-- ⚡ Fun fact: I ranked **Top 10** in the **TCS AI Hackathon** (enterprise‑wide) for an AI‑driven solution.
-
----
-
+  
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -42,20 +39,6 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhilkarankotk&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilkarankotk&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilkarankotk&theme=dark&hide_border=true&background=0d1117" />
-</p>
-
-
 ### 🚀 Featured Projects
 
 - **Portfolio Chatbot Assistant** – AI‑powered personal assistant using RAG (Retrieval‑Augmented Generation) and the Mistral API.  
@@ -71,7 +54,7 @@
 
 ### 🏆 Achievements & Certifications
 
-- **TCS AI Hackathon** – Ranked **Top 10** out of enterprise‑wide participants for an innovative AI‑driven solution.
+- **TCS AI Hackathon** – Ranked **Top 10** out of enterprise‑wide participants for an innovative AI‑driven solution .
 - **AWS Certified Developer Associate** – Amazon Web Services
 - **Java Oracle Certified Programmer: Java SE 8** – Oracle
 
