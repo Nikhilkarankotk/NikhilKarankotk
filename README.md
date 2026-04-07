@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **AI‑powered assistants and scalable microservices** using Java & Spring Boot.
 - 🌱 I’m deepening expertise in **LLM integration, RAG architectures, and cloud‑native patterns** for freelance projects.
 - 👯 I’m looking to collaborate on **open‑source Java projects** or **innovative backend tools** leveraging Gen AI.
-- 💬 Ask me about **Spring Boot, microservices, concurrency, system design**, or integrating **LLMs into production**.
+- 💬 Ask me about **Spring Boot, microservices, concurrency, system design**, or integrating **LLMs**.
   
 ### 🛠️ Tech Stack & Tools
 
