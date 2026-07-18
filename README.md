@@ -6,7 +6,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nikhil+Kumar+Karankot;Java+Backend+Developer;Freelance;" alt="Typing SVG" />
 </h1>
-- 💬 Ask me about **Spring Boot, microservices, system design, GEN AI & LLMs.
+👋 About Me
+
+- 💻 Java Backend Developer with **4+ years of experience** in designing and developing enterprise-grade applications.
+- ⚡ Passionate about building **scalable Spring Boot Microservices, REST APIs, and distributed backend systems**.
+- ☁️ Exploring **Cloud Technologies, Distributed Systems, System Design, and Generative AI (RAG, MCP & LLMs)**.
+- 🚀 Open to collaborating on **Java Backend, Microservices, Cloud, and AI-driven projects**.
+- 💬 Ask me about **Java, Spring Boot, Microservices, System Design, Spring Security, GenAI, RAG, and LLMs**.
   
 ### 🛠️ Tech Stack & Tools
 
