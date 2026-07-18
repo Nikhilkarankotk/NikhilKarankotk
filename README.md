@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nikhil+Kumar+Karankot;Java+Backend+Developer;Freelance;" alt="Typing SVG" />
 </h1>
-- 💬 Ask me about **Spring Boot, microservices, concurrency, system design**, or integrating **LLMs**.
+- 💬 Ask me about **Spring Boot, microservices, system design**, **GEN AI & LLMs**.
   
 ### 🛠️ Tech Stack & Tools
 
