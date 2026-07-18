@@ -6,9 +6,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nikhil+Kumar+Karankot;Java+Backend+Developer;Freelance;" alt="Typing SVG" />
 </h1>
-
-- 🔭 I’m currently working on **AI‑powered assistants and scalable microservices** using Java & Spring Boot.
-- 🌱 I’m deepening expertise in **LLM integration, RAG architectures, and cloud‑native patterns** for freelance projects.
 - 👯 I’m looking to collaborate on **open‑source Java projects** or **innovative backend tools** leveraging Gen AI.
 - 💬 Ask me about **Spring Boot, microservices, concurrency, system design**, or integrating **LLMs**.
   
