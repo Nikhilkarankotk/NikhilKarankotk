@@ -6,10 +6,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nikhil+Kumar+Karankot;Java+Backend+Developer;Freelance;" alt="Typing SVG" />
 </h1>
-👋 About Me <a href="https://nikhilkarankotk.github.io/My_Portfolio/" style="display:none;">Explore my Portfolio</a>
+👋 About Me <a href="https://nikhilkarankotk.github.io/My_Portfolio/" style="display:none;"> [Portfolio]</a>
 
 - 💻 Java Backend Developer with **4+ years of experience** in designing and developing enterprise-grade applications.
-- ⚡ Passionate about building **scalable Spring Boot Microservices, REST APIs, and distributed backend systems**.
+- ⚡ Innovating with **scalable Spring Boot microservices, lightning‑fast REST APIs, and distributed backend architectures** designed to power the future of digital platforms.
 - ☁️ Exploring **Cloud Technologies, Distributed Systems, System Design, and Generative AI (RAG, MCP & LLMs)**.
 - 🚀 Open to collaborating on **Java Backend, Microservices, Cloud, and AI-driven projects**.
 - 💬 Ask me about **Java, Spring Boot, Microservices, System Design, Spring Security, GenAI, RAG, and LLMs**.
@@ -41,16 +41,6 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
-### 🚀 Featured Projects
-
-- **Portfolio Chatbot Assistant** – AI‑powered personal assistant using RAG (Retrieval‑Augmented Generation) and the Mistral API.  
-  *Tech: Java, Spring Boot, React, PostgreSQL (Vector DB), LLM integration.*
-
-- **eCommerce Microservices Platform** – Scalable order platform with Keycloak, Kafka, API Gateway, Docker, and Kubernetes.  
-  *Tech: Spring Boot, Microservices, OAuth2, Oracle DB.*
-
-- **Job Portal Application** – Dual‑profile recruitment platform with resume upload and search by skills/location.  
-  *Tech: Java, Spring Boot, MySQL, Thymeleaf.*
 
 ---
 
