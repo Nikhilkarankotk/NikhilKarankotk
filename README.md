@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nikhil+Kumar+Karankot;Java+Backend+Developer;Freelance;" alt="Typing SVG" />
 </h1>
-👋 About Me
+👋 About Me <a href="https://nikhilkarankotk.github.io/My_Portfolio/" style="display:none;">Explore my Portfolio</a>
 
 - 💻 Java Backend Developer with **4+ years of experience** in designing and developing enterprise-grade applications.
 - ⚡ Passionate about building **scalable Spring Boot Microservices, REST APIs, and distributed backend systems**.
